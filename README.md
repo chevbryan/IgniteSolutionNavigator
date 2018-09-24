@@ -1,0 +1,2 @@
+# IgniteSolutionNavigator
+ Ignite Solution Navigator
